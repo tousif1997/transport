@@ -46,7 +46,7 @@ class VideoApp extends Component {
                     controls={true}
                     src={this.state.video.src}
                     poster={this.state.video.poster}
-                    width="260"
+                    width="275.2"
                     height="176.8"
                     onReady={this.onPlayerReady.bind(this)}
                     onPlay={this.onVideoPlay.bind(this)}

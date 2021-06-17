@@ -16,7 +16,7 @@ class Navbar extends Component {
   render(){ 
       
       return(
-          <nav className=" NavbarItems">
+          <nav className=" NavbarItems" style={{position:"relative"}}>
               
               <NavLink className="navbar-brand" to="/Home">
                 <img src="JHT.png" alt="logo img"  style={{width: '200px', height: '47.39px' , marginLeft:"45px", loaderDelayOffset:'600ms !important'}}/>
