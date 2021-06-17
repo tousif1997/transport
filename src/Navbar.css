@@ -17,6 +17,7 @@
     justify-self: start;
     margin-left: 20px;
     cursor:pointer;
+    
 }
  
 .fa-react{
@@ -34,7 +35,7 @@
     justify-content:end ;
     margin-right: 2rem;
     font-weight: bold;
-
+    padding-top: 1%;
 }
 
 .nav-links {
@@ -135,4 +136,12 @@
     .Button{
         display: none;
     }
+}
+.navbar-brand {
+    padding-top: 1.3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
 }
