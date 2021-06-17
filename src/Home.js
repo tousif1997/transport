@@ -25,10 +25,12 @@ style={{color: "rgb(255, 255, 255)"}}>
 	<div className="vc_col-sm-6 wpb_column column_container">
 		<div className="wpb_wrapper">
 			<div id="section-1-1619683825" className=" dt-section-head center size-default hide-overflow">
-            <div className="dt-section-container"><h2 className="section-main-title section-heading-polkadot-left-right " style={{color:"black",fontSize:"xx-large",fontWeight:"500",paddingBottom:"10px"}}>
+            <div className="dt-section-container">
+            <h2 className="section-main-title section-heading-polkadot-left-right " style={{color:"black",fontSize:"xx-large",fontWeight:"500",paddingBottom:"10px"}}>
                 Our Mission
             </h2>
-            </div></div>
+            </div>
+      </div>
 	<div className="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_left-to-right left-to-right wpb_start_animation animated">
 		<div className="wpb_wrapper">
 			<p style={{textAlign: "center",fontStyle:"italic",color:"black"}}><em>“To be the most preferred LSP by continuously adapting to the ever growing business environment through ethical business practices and strict adherence towards the effective QMS.”</em></p>

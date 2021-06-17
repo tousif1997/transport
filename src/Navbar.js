@@ -11,6 +11,7 @@ class Navbar extends Component {
 
   handleClick = () =>{
       this.setState({clicked: !this.state.clicked})
+      console.log('Clicked Mobile Icon :',this.state.clicked);
   }
 
   render(){ 
